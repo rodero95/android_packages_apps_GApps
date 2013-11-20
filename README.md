@@ -7,4 +7,4 @@ Google Apps for CyanogenMod 11.0 (Android 4.4)
 	* All files are licensed to Google.
 	* You use them under your own responsibility.
 	* To include them in your build, just add this project to the local_manifest to the packages/apps/GApps folder and add the GApps package to your build.
-	* All Google Apps are included here. 
+	* Google Home, Hangouts, Google+ and Face Detection have been left out.
