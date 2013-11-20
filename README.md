@@ -1,7 +1,7 @@
 android_packages_apps_GApps
 ===========================
 
-Google Apps for CyanogenMod 10.2 (Android 4.3.1)
+Google Apps for CyanogenMod 11.0 (Android 4.4)
 
 	* This files are in no way related with CyanogenMod original developers.
 	* All files are licensed to Google.
